@@ -1,2 +1,2 @@
-<?php header( 'Location: /recipe_display.html' ) ;  ?>
+<?php header( 'Location: /index.html' ) ;  ?>
 
