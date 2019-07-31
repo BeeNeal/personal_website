@@ -480,8 +480,9 @@ mark,
 
 .img-fluid {
   max-width: 100%;
-  max-height: 0%;
+  max-height: 50%;
   height: 100px;
+  position: relative;
 }
 
 .img-thumbnail {
@@ -3876,6 +3877,7 @@ input[type="button"].btn-block {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
+  position: relative;
 }
 
 .nav-link {
@@ -4276,6 +4278,7 @@ input[type="button"].btn-block {
 .navbar-brand .img {
   max-width: 175px;
   max-height: 175px;
+  position: absolute;
 }
 
 .navbar-light .navbar-brand {
